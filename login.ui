@@ -352,8 +352,14 @@
       </property>
      </spacer>
     </item>
-    <item row="0" column="3">
+    <item row="0" column="4">
      <widget class="QPushButton" name="btnAddInstitute">
+      <property name="font">
+       <font>
+        <family>楷体</family>
+        <pointsize>10</pointsize>
+       </font>
+      </property>
       <property name="text">
        <string>添加学院</string>
       </property>
